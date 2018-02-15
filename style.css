@@ -1,0 +1,46 @@
+
+h1 {
+  font-family: 'Raleway','Futura';
+  font-size: 50px;
+  text-align: center;
+  letter-spacing:5px;
+  color: black;
+  padding-top: 40px;
+}
+.container {
+  background-image:url('https://foodsafetyblog.statefoodsafety.com/wp-content/uploads/2017/11/logosmaller.png');
+  background-repeat: no-repeat;
+  background-position: center top;
+  ont-family: 'Raleway','Futura';
+  color: black;
+  font-size: 20px;
+  padding-top: 175px;
+   
+}
+p{
+  text-align:center;
+}
+.container a{
+  text-decoration:none;
+  text-align:center;
+}
+h5{
+  text-align:center;
+}
+h4{
+  text-align:center;
+}
+h3{
+  text-align:center;
+}
+i{
+  position:center:
+}
+
+
+
+  
+
+
+
+
